@@ -1,2 +1,29 @@
-# NoticeBoard-Management
-This project is a College Notice Board Management System developed using MySQL stored procedures. It demonstrates role-based access control where users are categorized as teachers and students, with different permissions for each role.
+# 📢 College Notice Board Management System
+
+This project is built using MySQL stored procedures and implements role-based access control.
+
+## 👨‍🏫 Features
+
+- Teachers can create, update, and delete notices
+- Students can only view notices
+- Secure role-based permission system
+
+## 🗄️ Database
+
+- users table
+- notices table
+
+## ⚙️ Stored Procedures
+
+- registeruser
+- userlogin
+- checkpermission
+- createnotice
+- viewnotices
+- updatenotice
+- deletenotice
+
+## 🛠️ Tech Used
+
+- MySQL
+- Stored Procedures
