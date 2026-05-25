@@ -25,5 +25,5 @@ This project is built using MySQL stored procedures and implements role-based ac
 
 ## 🛠️ Tech Used
 
-- MySQL
-- Stored Procedures
+- MySQL work bench
+- 
